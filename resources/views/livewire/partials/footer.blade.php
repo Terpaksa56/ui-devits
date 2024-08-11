@@ -21,13 +21,11 @@
                             href="/products">Produk DEVITS</a></p>
                     <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
                             href="/syarat-ketentuan">Syarat Dan Ketentuan</a></p>
-                    <p><a class="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-                            href="/products">Kebijakan Privasi</a></p>
                 </div>
             </div>
             <!-- End Col -->
 
-
+            
             <!-- End Col -->
             <div class="col-span-2">
                 <h4 class="font-semibold text-gray-100">INSTITUT TEKNOLOGI SEPULUH NOPEMBER</h4>

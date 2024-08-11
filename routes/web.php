@@ -2,11 +2,13 @@
 
 use App\Livewire\CategoriesPage;
 use App\Livewire\HomePage;
+use App\Livewire\DaftarToko;
 use App\Livewire\Product;
 use App\Livewire\ProductPage;
 use App\Livewire\SyaratKetentuan;
 use App\Livewire\TentangDevits;
 use App\Livewire\TentangVokasi;
+use App\Livewire\Toko;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -28,3 +30,5 @@ Route::get('/tentang-vokasi', TentangVokasi::class);
 Route::get('/tentang-devits', TentangDevits::class);
 Route::get('/syarat-ketentuan', SyaratKetentuan::class);
 Route::get('/product', Product::class);
+Route::get('/daftar-toko', DaftarToko::class);
+Route::get('/toko', Toko::class);

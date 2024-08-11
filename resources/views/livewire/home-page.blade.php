@@ -41,17 +41,21 @@
                 <!-- End Col -->
 
                 <div class="ms-4">
-                    <h1 class=" text-3xl font-bold text-slate-200 sm:text-4xl lg:text-6xl lg:leading-tight">
-                        Selamat Datang di Website Kami
-                        <span class="text-rose-400">DEVITS</span>
-                    </h1>
-                    <p class="mt-3 text-lg text-slate-200">DEVELOPMENT CENTER OF VOCATIONAL
-                        ENTREPRENEURSHIP ITS
-                        merupakan sebuah wadah yang dirancang untuk memacu semangat kewirausahaan di kalangan mahasiswa
-                        vokasi, memberikan motivasi, serta mendukung mereka dalam menjalankan usaha.</p>
-
+                    <div data-aos="fade-left" data-aos-delay="100" data-aos-duration="1600">
+                        <h1 class=" text-3xl font-bold text-slate-200 sm:text-4xl lg:text-6xl lg:leading-tight">
+                            Selamat Datang di Website Kami
+                            <span class="text-rose-400">DEVITS</span>
+                        </h1>
+                    </div>
+                    <div>
+                        <p class="mt-3 text-lg text-slate-200" data-aos="fade-right" data-aos-delay="100" data-aos-duration="2400">DEVELOPMENT CENTER OF VOCATIONAL
+                            ENTREPRENEURSHIP ITS
+                            merupakan sebuah wadah yang dirancang untuk memacu semangat kewirausahaan di kalangan
+                            mahasiswa
+                            vokasi, memberikan motivasi, serta mendukung mereka dalam menjalankan usaha.</p>
+                    </div>
                     <!-- Buttons -->
-                    <div class="mt-7 gap-3 inline-flex w-full">
+                    <div class="mt-7 gap-3 inline-flex w-full" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1600">
                         <button type="button"
                             class="text-slate-200 bg-orange-400 hover:bg-orange-500 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 focus:outline-none transition-all ease-in duration-200">Lihat
                             Kategori</button>
@@ -65,77 +69,12 @@
     {{-- Hero Close --}}
 
 
-    {{-- test hero --}}
-    {{-- <div class=" bg-purple-800 overflow-hidden">
-        <div class="w-full mx-auto object-cover bg-cover bg-center bg-blend-overlay "
-            style="background-image: url('assets/hero1.png')">
-            <div class="py-24 px-36">
-                <div class="mx-auto">
-                    <div class="grid lg:grid-cols-2 gap-24 md:grid-cols-1">
-                        <a href="#" class="rounded-2xl group-block" style="background-color: #190e36">
-                            <div class="flex justify-center items-center h-full">
-                                <img class="h-auto max-w-full group-hover:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl"
-                                    src="assets/logo-hero.png" alt="">
-                            </div>
-                        </a>
-                        <a href="#" class="group block">
-                            <div
-                                class="bg-orange-500 shadow-sm rounded-xl md:p-5 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-                                <h1 class=" text-3xl font-bold dark:text-white pb-6 pr-12 pl-12" style="color: #261635">
-                                    DEVITS
-                                </h1>
-                                <p class="mt-2 dark:text-neutral-400 pb-6 pr-12 pl-12" style="color: #261635">
-                                    DEVITS merupakan sebuah wadah yang dirancang untuk memacu semangat kewirausahaan di
-                                    kalangan mahasiswa vokasi, memberikan motivasi, serta mendukung mereka dalam
-                                    menjalankan usaha
-                                </p>
-                                <!-- Buttons -->
-                                <div class="sm:inline-flex pr-12 pl-12">
-                                    <button type="button"
-                                        class=" text-orange-500 hover:bg-purple-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 focus:outline-none transition-all ease-in duration-75 "
-                                        style="background-color:#261635">Lihat
-                                        Kategori</button>
-                                </div>
-                                <!-- End Buttons -->
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="grid md:grid-cols-2 gap-24 md:gap-8 xl:gap-20 md:items-center px-24 py-36">
-                <div
-                    class="flex flex-col bg-white border shadow-sm rounded-xl md:p-5 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
-                    <h1 class=" text-3xl font-bold text-gray-800 dark:text-white pb-6 pr-12 pl-12">
-                        DEVITS
-                    </h1>
-                    <p class="mt-2 text-gray-500 dark:text-neutral-400 pb-6 pr-12 pl-12">
-                        DEVITS merupakan sebuah wadah yang dirancang untuk memacu semangat kewirausahaan di kalangan
-                        mahasiswa vokasi, memberikan motivasi, serta mendukung mereka dalam menjalankan usaha
-                    </p>
-                    <!-- Buttons -->
-                    <div class="sm:inline-flex pr-12 pl-12">
-                        <button type="button"
-                            class="text-slate-200 bg-orange-400 hover:bg-orange-500 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 focus:outline-none transition-all ease-in duration-75 ">Lihat
-                            Kategori</button>
-                    </div>
-                    <!-- End Buttons -->
-                </div>
-                <div class="flex flex-col shadow-sm rounded-xl p-4 md:p-5 dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70 items-center"
-                    style="background-color: #190e36">
-                    <a href="#"><img src="assets/logo-hero.png" alt=""></a>
-                </div>
-            </div>
-        </div>
-
-    </div> --}}
-    {{-- test hero --}}
-
     {{-- Categories Open --}}
-    <section class="py-20">
-        <div class="max-w-4xl mx-auto p-10 px-4">
-            <div class="text-center ">
+    <section class="md:py-20 px-4 lg:px-8 py-12 lg:py-12">
+        <div class="max-w-4xl mx-auto px-4">
+            <div class="text-center">
                 <div class="relative flex flex-col items-center">
-                    <h1 class="text-5xl font-bold">
+                    <h1 class="md:text-5xl font-bold text-3xl">
                         Category</h1>
                     <br>
                 </div>
@@ -147,27 +86,27 @@
             </div>
         </div>
         <div class="mx-auto max-w-screen-lg">
-            <div class="grid grid-cols-2 gap-4 lg:grid-cols-4 sm:px-8">
+            <div class="grid grid-cols-2 gap-4 lg:grid-cols-4 sm:px-8 px-2">
                 <a href="#" class="group block">
-                    <div>
+                    <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="2400">
                         <img class="h-auto max-w-full group-hover:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl"
                             src="assets/categories/makanan.png" alt="">
                     </div>
                 </a>
                 <a href="#" class="group block">
-                    <div>
+                    <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="2400">
                         <img class="h-auto max-w-full group-hover:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl"
                             src="assets/categories/minuman.png" alt="">
                     </div>
                 </a>
                 <a href="#" class="group block">
-                    <div>
+                    <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="2400">
                         <img class="h-auto max-w-full group-hover:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl"
                             src="assets/categories/pakaian.png" alt="">
                     </div>
                 </a>
                 <a href="#" class="group block">
-                    <div>
+                    <div data-aos="fade-up" data-aos-delay="300" data-aos-duration="2400">
                         <img class="h-auto max-w-full group-hover:scale-105 transition-transform duration-500 ease-in-out object-cover rounded-2xl"
                             src="assets/categories/jasa.png" alt="">
                     </div>
@@ -179,9 +118,9 @@
 
 
     {{-- List Product Open --}}
-    <div class="bg-max-w-7xl px-4 lg:px-8 py-6 lg:py-12 mx-auto">
+    <div class="bg-max-w-7xl px-4 lg:px-8 py-12 lg:py-12 mx-auto">
         <div class="mb-6 sm:mb-10 max-w-2xl text-center mx-auto">
-            <h1 class=" text-black text-2xl sm:text-4xl dark:text-white font-extrabold">
+            <h1 class=" text-black text-3xl sm:text-5xl dark:text-white font-extrabold">
                 Our Product
             </h1>
         </div>
@@ -191,8 +130,8 @@
 
             <main
                 class="grid grid-cols-2 gap-x-6 gap-y-10 px-2 pb-20 sm:grid-cols-3 sm:px-8 lg:mt-16 lg:grid-cols-4 lg:gap-x-4 lg:px-0 ">
-                <article class="relative">
-                    <div class="aspect-square overflow-hidden rounded-2xl">
+                <article class="relative" data-aos="fade-left" data-aos-delay="300" data-aos-duration="2400">
+                    <div class="aspect-square overflow-hidden rounded-2xl" >
                         <img class="h-full w-full object-cover transition-all duration-300 group-hover:scale-125"
                             src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" alt="" />
                     </div>
@@ -863,27 +802,29 @@
     <section class=" py-11 ">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div class="mb-8">
-                <h2 class="text-4xl text-center font-semibold text-gray-900 ">Our Store</h2>
+                <h2 class="text-4xl sm:text-5xl text-center font-semibold text-gray-900 ">Our Store</h2>
             </div>
             <div
-                class="grid grid-cols-2 gap-x-6 gap-y-10 px-2 pb-20 sm:grid-cols-3 sm:px-8 lg:mt-16 lg:grid-cols-4 lg:gap-x-4 lg:px-0">
+                class="grid grid-cols-2 gap-x-6 gap-y-10 px-2 pb-20 sm:grid-cols-3 sm:px-8 lg:mt-16 lg:grid-cols-4 lg:gap-x-4 lg:px-0" data-aos="fade-down" data-aos-delay="300" data-aos-duration="2400">
 
                 <div class="group grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 rounded-2xl p-4"
                     style="background-color: #190e36">
 
-                    <div class="col-span-1 flex justify-start">
+                    <div class="col-span-1 flex justify-start mr-3 h-20 w-20 md:h-28 md:w-28">
                         <img src="https://pagedone.io/asset/uploads/1696238374.png" alt="Antonio image"
                             class="w-24 h-24 transition-all duration-500 object-cover border border-solid border-transparent rounded-2xl" />
                     </div>
 
-                    <div class="col-span-1 ">
-                        <p
-                            class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
-                            Ammar Jaya
-                        </p>
-                        <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
-                            Jl. Mundur Abadi
-                        </p>
+                    <div class="col-span-1">
+                        <a href="#" class="">
+                            <p
+                                class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5 ">
+                                Ammar Jaya
+                            </p>
+                            <p class="text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
+                                Jl. Mundur Abadi
+                            </p>
+                        </a>
                         <div class="mt-2 flex items-center">
                             <svg class="block h-3 w-3 align-middle text-yellow-300 sm:h-4 sm:w-4"
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
@@ -923,19 +864,21 @@
                 <div class="group grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 rounded-2xl p-4"
                     style="background-color: #190e36">
 
-                    <div class="col-span-1 flex justify-start">
+                    <div class="col-span-1 flex justify-start mr-3 h-20 w-20 md:h-28 md:w-28">
                         <img src="https://pagedone.io/asset/uploads/1696238374.png" alt="Antonio image"
                             class="w-24 h-24 transition-all duration-500 object-cover border border-solid border-transparent rounded-2xl" />
                     </div>
 
-                    <div class="col-span-1 ">
-                        <p
-                            class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
-                            Ammar Jaya
-                        </p>
-                        <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
-                            Jl. Mundur Abadi
-                        </p>
+                    <div class="col-span-1">
+                        <a href="#" class="">
+                            <p
+                                class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5 ">
+                                Ammar Jaya
+                            </p>
+                            <p class="text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
+                                Jl. Mundur Abadi
+                            </p>
+                        </a>
                         <div class="mt-2 flex items-center">
                             <svg class="block h-3 w-3 align-middle text-yellow-300 sm:h-4 sm:w-4"
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
@@ -975,19 +918,21 @@
                 <div class="group grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 rounded-2xl p-4"
                     style="background-color: #190e36">
 
-                    <div class="col-span-1 flex justify-start">
+                    <div class="col-span-1 flex justify-start mr-3 h-20 w-20 md:h-28 md:w-28">
                         <img src="https://pagedone.io/asset/uploads/1696238374.png" alt="Antonio image"
                             class="w-24 h-24 transition-all duration-500 object-cover border border-solid border-transparent rounded-2xl" />
                     </div>
 
-                    <div class="col-span-1 ">
-                        <p
-                            class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
-                            Ammar Jaya
-                        </p>
-                        <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
-                            Jl. Mundur Abadi
-                        </p>
+                    <div class="col-span-1">
+                        <a href="#" class="">
+                            <p
+                                class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5 ">
+                                Ammar Jaya
+                            </p>
+                            <p class="text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
+                                Jl. Mundur Abadi
+                            </p>
+                        </a>
                         <div class="mt-2 flex items-center">
                             <svg class="block h-3 w-3 align-middle text-yellow-300 sm:h-4 sm:w-4"
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
@@ -1027,19 +972,21 @@
                 <div class="group grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 rounded-2xl p-4"
                     style="background-color: #190e36">
 
-                    <div class="col-span-1 flex justify-start">
+                    <div class="col-span-1 flex justify-start mr-3 h-20 w-20 md:h-28 md:w-28">
                         <img src="https://pagedone.io/asset/uploads/1696238374.png" alt="Antonio image"
                             class="w-24 h-24 transition-all duration-500 object-cover border border-solid border-transparent rounded-2xl" />
                     </div>
 
-                    <div class="col-span-1 ">
-                        <p
-                            class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
-                            Ammar Jaya
-                        </p>
-                        <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
-                            Jl. Mundur Abadi
-                        </p>
+                    <div class="col-span-1">
+                        <a href="#" class="">
+                            <p
+                                class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5 ">
+                                Ammar Jaya
+                            </p>
+                            <p class="text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
+                                Jl. Mundur Abadi
+                            </p>
+                        </a>
                         <div class="mt-2 flex items-center">
                             <svg class="block h-3 w-3 align-middle text-yellow-300 sm:h-4 sm:w-4"
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
@@ -1076,18 +1023,9 @@
                         </div>
                     </div>
                 </div>
-
 
             </div>
-
-
-
-
         </div>
-</div>
-</section>
-{{-- list toko close --}}
-
-
-
+    </section>
+    {{-- list toko close --}}
 </div>
