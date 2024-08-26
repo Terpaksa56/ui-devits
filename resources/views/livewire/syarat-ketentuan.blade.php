@@ -234,7 +234,7 @@
 
             <hr class="h-px my-8 bg-gray-400 border-0 dark:bg-gray-700">
             <div class="mt-5">
-                <p class="text-base leading-3 text-gray-800 dark:text-white mt-4 text-justify font-normal">
+                <p class="text-base sm:leading-3 text-gray-800 dark:text-white mt-4 text-justify font-normal">
                     Dengan tetap mengakses dan menggunakan layanan DEVITS, Anda dianggap menyetujui perubahan-perubahan
                     dalam Syarat & Ketentuan ini.
 

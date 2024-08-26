@@ -41,7 +41,7 @@
                             <div class="col-span-1 ">
                                 <a href="#">
                                     <p
-                                        class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
+                                        class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
                                         Ammar Jaya
                                     </p>
                                     <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
@@ -95,7 +95,7 @@
                             <div class="col-span-1 ">
                                 <a href="#">
                                     <p
-                                        class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
+                                        class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
                                         Ammar Jaya
                                     </p>
                                     <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
@@ -149,7 +149,7 @@
                             <div class="col-span-1 ">
                                 <a href="#">
                                     <p
-                                        class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
+                                        class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
                                         Ammar Jaya
                                     </p>
                                     <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
@@ -203,7 +203,7 @@
                             <div class="col-span-1 ">
                                 <a href="#">
                                     <p
-                                        class="text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
+                                        class="text-xl md:text-2xl font-medium text-gray-200 mb-2 capitalize transition-all duration-500 leading-5">
                                         Ammar Jaya
                                     </p>
                                     <p class=" text-sm text-gray-200 mb-2 capitalize transition-all duration-500 ">
@@ -246,6 +246,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                     </div>
                 </div>
             </section>

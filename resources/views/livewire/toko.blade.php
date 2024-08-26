@@ -38,7 +38,7 @@
                 class="w-full font-bold text-gray-800 dark:text-white lg:text-4xl text-3xl lg:leading-10 leading-9 mt-4 text-center sm:py-3">
                 Daftar Toko DEVITS</h2>
             <h2
-                class="w-full font-bold text-gray-800 dark:text-white lg:text-3xl text-2xl lg:leading-10 text-start px-4 sm:px-6 lg:px-8 lg:pb-4">
+                class="w-full font-bold text-gray-800 dark:text-white lg:text-3xl text-xl lg:leading-10 text-start px-4 sm:px-6 lg:px-8 lg:pb-4">
                 Ammar Jaya</h2>
             <section class="w-full xl:py-3 py-4 ">
                 <div class="mx-auto sm:px-6 lg:px-8 sm:py-3">
